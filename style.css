@@ -1,0 +1,32 @@
+h1{
+
+    font-size: 60px;
+    color: #55fcfc;
+  
+}
+p{
+    font-size: 40px;
+    font-weight: bolder ;
+    color: #05ccc2;
+    
+}
+body{
+
+    background-color: rgb(75, 42, 39);
+    text-align: center;
+}
+
+.dice{
+    display: inline-block;
+}
+
+.dice-img{
+    display: inline-block;
+}
+
+footer{
+margin-top: 100px;
+color: #55fcfc;
+font-weight: bolder;
+font-size: 16px;
+}
